@@ -1,0 +1,33 @@
+{
+  "name": "king-arch",
+  "version": "1.0.0",
+  "description": "King Arch: arquitectura de software y sistemas distribuidos del ecosistema King Framework. Patrones de arquitectura (/clean-arch-setup, /hexagonal-setup, /ddd-tactical, /cqrs-setup, /event-sourcing); sistemas distribuidos (/saga-design, /microservice-extract, /event-broker-setup); resiliencia (/resilience-weave, /idempotency); contratos de API (/api-contract-first, /contract-test-pact). Lee agentes (@architect/@developer/@qa/@api/@performance/@tenancy-enforcer), knowledge compartido (architecture-patterns, resilience-patterns) y session-management de king-core cross-plugin. Alimenta las capas Architecture y Contracts de CASTLE.",
+  "author": {
+    "name": "InformatiK-AI",
+    "email": "j.salgado2k@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/InformatiK-AI/king-arch",
+  "repository": "https://github.com/InformatiK-AI/king-arch",
+  "requires": ["king-framework"],
+  "keywords": [
+    "architecture",
+    "clean-architecture",
+    "hexagonal",
+    "ddd",
+    "cqrs",
+    "event-sourcing",
+    "saga",
+    "microservices",
+    "strangler-fig",
+    "resilience",
+    "idempotency",
+    "api-contract",
+    "openapi",
+    "pact",
+    "event-broker",
+    "distributed-systems",
+    "king-framework",
+    "claude-code"
+  ]
+}

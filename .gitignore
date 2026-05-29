@@ -1,0 +1,9 @@
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Git worktrees (desarrollo aislado de features)
+.worktrees/
