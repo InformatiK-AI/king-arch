@@ -1,0 +1,10 @@
+# Normalización de fin de línea — king-arch
+# Markdown, JSON y YAML del plugin: LF para consistencia cross-plataforma al clonarse.
+*.md        text eol=lf
+*.json      text eol=lf
+*.jsonl     text eol=lf
+*.yaml      text eol=lf
+*.yml       text eol=lf
+
+# Scripts bash (si se agregan): LF obligatorio — el shebang se rompe con CRLF.
+*.sh        text eol=lf
