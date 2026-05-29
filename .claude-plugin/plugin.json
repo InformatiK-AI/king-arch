@@ -9,7 +9,7 @@
   "license": "MIT",
   "homepage": "https://github.com/InformatiK-AI/king-arch",
   "repository": "https://github.com/InformatiK-AI/king-arch",
-  "requires": ["king-framework"],
+  "requires": ["king-core"],
   "keywords": [
     "architecture",
     "clean-architecture",
